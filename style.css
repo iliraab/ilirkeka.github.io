@@ -42,6 +42,15 @@ header a {
 header a:hover {
   text-decoration: underline;
 }
+.divtitle {
+  line-height: 1.2;
+}
+
+.divtitle h1, 
+.divtitle h2, 
+.divtitle p {
+  margin: 4px 0; 
+}
 
 .container {
   max-width: 1200px;
