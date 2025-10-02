@@ -42,6 +42,10 @@ header a {
 header a:hover {
   text-decoration: underline;
 }
+h1, h2, p{
+  margin:0;
+  padding:0;
+}
 .divtitle {
   line-height: 1.2;
 }
@@ -133,3 +137,4 @@ footer {
   padding: 15px;
   margin-top: 20px;
 }
+
